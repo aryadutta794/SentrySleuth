@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "session_id": "1791101981839_1p0vv",
+  "source": "vscode",
+  "pid": 8010,
+  "started_at": "2026-10-04T08:19:42.324Z",
+  "exit_code": null,
+  "status": "idle",
+  "interactive": true,
+  "provider": "cline-pass",
+  "model": "cline-pass/deepseek-v4.1-flash",
+  "cwd": "/Users/broja/sentrysleuth-demo/src",
+  "workspace_root": "/Users/broja/sentrysleuth-demo/src",
+  "enable_tools": true,
+  "enable_spawn": false,
+  "enable_teams": false,
+  "prompt": "I have a new React frontend inside the client folder. I need you to build a dark-mode 'Mission Control Dashboard' in cli",
+  "metadata": {
+    "sessionHistoryOrigin": {
+      "mode": "user",
+      "version": "4.1.22"
+    },
+    "size": 9513,
+    "title": "I have a new React frontend inside the client folder. I need you to build a dark-mode 'Mission Control Dashboard' in cli",
+    "isFavorited": false,
+    "totalCost": 0,
+    "tokensIn": 834876,
+    "tokensOut": 148098,
+    "cacheWrites": 0,
+    "cacheReads": 79517056,
+    "modelId": "cline-pass/deepseek-v4.1-flash",
+    "legacyTask": false,
+    "aggregatedAgentsCost": 0,
+    "usage": {
+      "inputTokens": 80351932,
+      "outputTokens": 148098,
+      "cacheReadTokens": 79517056,
+      "cacheWriteTokens": 0,
+      "totalCost": 0
+    },
+    "aggregateUsage": {
+      "inputTokens": 80351932,
+      "outputTokens": 148098,
+      "cacheReadTokens": 79517056,
+      "cacheWriteTokens": 0,
+      "totalCost": 0
+    }
+  },
+  "messages_path": "/Users/broja/.cline/data/sessions/1791101981839_1p0vv/1791101981839_1p0vv.messages.json"
+}
